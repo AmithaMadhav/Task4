@@ -1,0 +1,20 @@
+*{
+    font-family: Macondo, cursive;;
+}
+.caption{
+    width: 50%;
+    height:100vh;
+}
+
+.col
+{
+    background-color: brown;
+    text-align:justify;
+    width: 50vw;
+    height: 50vh;
+    justify-content: center;
+}
+.row img{
+    width: 20vw;
+    height: 60vh;
+}
